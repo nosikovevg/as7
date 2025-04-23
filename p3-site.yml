@@ -7,4 +7,4 @@
     - test-role
     - nginxdefault
     - mysqlinstall
-  
+    - mysqldump
