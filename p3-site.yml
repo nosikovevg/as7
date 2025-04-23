@@ -10,3 +10,4 @@
     - mysqldump
     - phpinstall
     - siteinstall
+    - phpmyadmin
