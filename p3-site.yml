@@ -8,3 +8,4 @@
     - nginxdefault
     - mysqlinstall
     - mysqldump
+    - phpinstall
