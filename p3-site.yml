@@ -11,3 +11,4 @@
     - phpinstall
     - siteinstall
     - phpmyadmin
+    - letsencrypt
