@@ -35,7 +35,7 @@
       git:
         repo: git@github.com:nosikovevg/tphp.git
         dest: /var/www/trur/
-        key_file: /root/www/.ssh/id_ed25519
+        key_file: /root/www/.ssh/id_ed25519 # ????? почему???
         accept_hostkey: yes
         force: yes  
        
